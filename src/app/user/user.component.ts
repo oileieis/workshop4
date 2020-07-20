@@ -10,7 +10,7 @@ export class UserComponent implements OnInit {
   lastName = '';
   show = true;
   users = [
-    {title: "Getting Apple", done: false}
+    {title: "John Doe", done: false}
   ];
   name = '';
   done = 0;
